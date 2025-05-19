@@ -1,0 +1,12 @@
+﻿  Game.cpp
+F:\UNL Virtual\Reforma\MAVII\Modulo 3 - Unidad 2 Dinamica de cuerpos puntuales\EsqueletoAPP\Box2dFirstApp\Src\Game.cpp(50,55): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+F:\UNL Virtual\Reforma\MAVII\Modulo 3 - Unidad 2 Dinamica de cuerpos puntuales\EsqueletoAPP\Box2dFirstApp\Src\Game.cpp(50,55): warning C4244:         with
+F:\UNL Virtual\Reforma\MAVII\Modulo 3 - Unidad 2 Dinamica de cuerpos puntuales\EsqueletoAPP\Box2dFirstApp\Src\Game.cpp(50,55): warning C4244:         [
+F:\UNL Virtual\Reforma\MAVII\Modulo 3 - Unidad 2 Dinamica de cuerpos puntuales\EsqueletoAPP\Box2dFirstApp\Src\Game.cpp(50,55): warning C4244:             T=float
+F:\UNL Virtual\Reforma\MAVII\Modulo 3 - Unidad 2 Dinamica de cuerpos puntuales\EsqueletoAPP\Box2dFirstApp\Src\Game.cpp(50,55): warning C4244:         ]
+F:\UNL Virtual\Reforma\MAVII\Modulo 3 - Unidad 2 Dinamica de cuerpos puntuales\EsqueletoAPP\Box2dFirstApp\Src\Game.cpp(55,56): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+F:\UNL Virtual\Reforma\MAVII\Modulo 3 - Unidad 2 Dinamica de cuerpos puntuales\EsqueletoAPP\Box2dFirstApp\Src\Game.cpp(55,56): warning C4244:         with
+F:\UNL Virtual\Reforma\MAVII\Modulo 3 - Unidad 2 Dinamica de cuerpos puntuales\EsqueletoAPP\Box2dFirstApp\Src\Game.cpp(55,56): warning C4244:         [
+F:\UNL Virtual\Reforma\MAVII\Modulo 3 - Unidad 2 Dinamica de cuerpos puntuales\EsqueletoAPP\Box2dFirstApp\Src\Game.cpp(55,56): warning C4244:             T=float
+F:\UNL Virtual\Reforma\MAVII\Modulo 3 - Unidad 2 Dinamica de cuerpos puntuales\EsqueletoAPP\Box2dFirstApp\Src\Game.cpp(55,56): warning C4244:         ]
+  Box2dEmptyApp.vcxproj -> F:\UNL Virtual\Reforma\MAVII\Modulo 3 - Unidad 2 Dinamica de cuerpos puntuales\EsqueletoAPP\Box2dFirstApp\Bin\Debug\Box2dEmptyApp.exe
